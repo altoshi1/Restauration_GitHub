@@ -2,9 +2,8 @@
 PROCESSUS DE RESTAURATION GITHUB
 ------------------------------------------------------------------------------------------------------
 Suite à une modification de code dans GitHub, votre solution ne fonctionne plus. Vous devez donc restaurer votre code mais comment faire.  
-Ecrire dans ce Readme une procédure pour expliquer étape par étape le processus de restauration d'un code issue de votre historique (vos commits).  
-C'est dire, décivrez comment faire un Checkout depuis l'interfaçe GitHub.  
-Vous trouverez ci-dessous le début de la séquence de restauration.  
+
+**Exercice :** Ecrire dans ce Readme une procédure pour expliquer étape par étape le processus de restauration d'un code issue de votre historique (vos commits). C'est dire, décivrez comment faire un Checkout depuis l'interfaçe GitHub. Vous trouverez ci-dessous le début de la séquence de restauration.  
 
 -------------------------------------------------------------------------------------------------------
 Début de procédure : Historique des commits
@@ -16,7 +15,7 @@ Cliquez sur Commits pour accèder à votre historique de commits
   
 ![Screenshot Historique](Historique.jpg)   
 
-Sélectionnez le sauvegarde que vous souhaitez restaurer.  
+Sélectionnez la sauvegarde que vous souhaitez restaurer.  
 
 ![Screenshot Browse](Browse.jpg)   
 
