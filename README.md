@@ -23,6 +23,30 @@ A présent vous n'êtes plus dans votre branche main (branche principale) mais v
 
 ![Screenshot Browse](Browse1.jpg)   
 
-Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle branche pour que vous puissiez ensuite la fusionner avec votre branche principale. C'est à dire faire de cette branche de restauration votre branche main.
 
-**C'est vous de créer la suite de cette procedure de restauration**  
+Créer une branche depuis le commit
+Dans l’onglet “Code”, cliquez sur le menu des branches (ici “8c84b79”) et tapez le nom de votre nouvelle branche.
+![Screenshot Browse](5.png)
+
+Ouvrir un nouvel onglet “Pull requests”
+Allez dans l’onglet “Pull requests” et cliquez sur le bouton “New pull request”.
+![Screenshot Browse](6.png)
+Comparer la branche avec ‘main’
+Sélectionnez votre branche (“restauration-ancien-commit”) comme base, “main” comme branche à comparer, puis cliquez sur “Create pull request”.
+![Screenshot Browse](9.png)
+Donner un titre et créer la pull request
+Indiquez un titre (ex: “ancien commit”), ajoutez une description si nécessaire, puis validez avec “Create pull request”.
+![Screenshot Browse](10.png)
+Vérifier qu’il n’y a pas de conflits
+GitHub affiche “No conflicts with base branch”, ce qui signifie que la fusion peut se faire automatiquement.
+![Screenshot Browse](11.png)
+Fusionner la pull request
+Cliquez sur “Merge pull request”, modifiez éventuellement le message de commit, puis confirmez avec “Confirm merge”.
+![Screenshot Browse](12.png)
+Pull request fusionnée
+Un message de confirmation s’affiche (“Pull request successfully merged and closed”), indiquant que tout est terminé.
+
+![Screenshot Browse](13.png)
+
+
+
