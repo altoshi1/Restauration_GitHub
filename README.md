@@ -15,7 +15,7 @@ Cliquez sur Commits pour accèder à votre historique de commits
   
 ![Screenshot Historique](Historique.jpg)   
 
-Sélectionnez le sauvegarde que vous souhaitez restaurer.  
+Sélectionnez la sauvegarde que vous souhaitez restaurer.  
 
 ![Screenshot Browse](Browse.jpg)   
 
